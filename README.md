@@ -16,4 +16,3 @@ TASK1-
 
 
 A TODO LIST WEBAPP Develop a basic To-Do app that enables a user to add daily tasks.
-Website Link :-https://github.com/pavneetkaurx/LGMVIP-Web-Task-1
